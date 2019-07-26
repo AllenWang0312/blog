@@ -26,12 +26,13 @@ Array Dictionary<String,Int> Set
 ###Part4
  概念 Subscripts Protocol Operator Overloading Delegation Extension Error Handling Nested Type Memory Management Generic Type Casting
  
+ 关键词
  
- 关键词 - repet{}while()
-        - &(取地址)
-        - init deinit
-        - final(声明 此类没有任何子类 不可被继承)
-        - convenience (声明 便利构造函数)
+ * repet{}while()
+ * &(取地址)
+ * init deinit
+ * final(声明 此类没有任何子类 不可被继承)
+ * convenience (声明 便利构造函数)
         - required (声明子类必须实现这个方法)
         - inout(修饰方法参数,表示该参数可以在方法体内部改变,一般没有返回值) 
         - mutating(结构体如果想改变自身 方法中要加)
