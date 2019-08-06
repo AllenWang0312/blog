@@ -1,33 +1,30 @@
-##swift学习笔记
+## swift学习笔记
 
 
-###Part3
-####文档
-###Part1
-
-####集合
+### Part3
+#### 文档
+### Part1
+    > /**
+    > - Parameters
+    >   - item1;
+    >   - item2:
+    > - Returns: 
+    > - Throws:
+    > -(Author,Authors,Copyright,Date,Since,Version)
+    > -(Precondition,Postcondition,Requires,Invariant,Complexity,Important,Warning,Attention,Note,Remark)
+    > */
+#### 集合
 Array Dictionary<String,Int> Set
 
-
->
-> /**
-> - Parameters
->   - item1;
->   - item2:
-> - Returns: 
-> - Throws:
-> -(Author,Authors,Copyright,Date,Since,Version)
-> -(Precondition,Postcondition,Requires,Invariant,Complexity,Important,Warning,Attention,Note,Remark)
-> */
 
 //MARK: -Methods  为类视图添加分割线
 //TODO: offer...  在类视图中添加TODO快速索引
 //FIXME: 在类视图中添加FIXME快速索引 可以标注在方法体内部
-###Part4
- 概念 Subscripts Protocol Operator Overloading Delegation Extension Error Handling Nested Type Memory Management Generic Type Casting
+### Part4
+#### 概念 
+> Subscripts Protocol Operator Overloading Delegation Extension Error Handling Nested Type Memory Management Generic Type Casting
  
- 关键词
- 
+#### 关键词
  * repet{}while()
  * &(取地址)
  * init deinit
@@ -60,11 +57,11 @@ Array Dictionary<String,Int> Set
         - weak var T?   约等于 unowned  不可以是可选型
         - 捕获列表 闭包对self强引用 使用 {[unowned/weak self] value in  return self.oldValue} 解除强引用循环
         - is 
- 特殊类
+#### 特殊类
     - NSArray oc 数组 可以存放不同类的对象       
     - NSDate 表示时间
     - (包含func)Any>(可以看做是 void* 指针)AnyObject > NSObject > SwiftObject
- 自定义运算符
+#### 自定义运算符
  postfix operator +++{}
  infix operator ^{associativity left}
  

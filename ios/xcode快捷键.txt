@@ -1,0 +1,20 @@
+cmd 1
+cmd 0
+cmd opt 0 
+
+opt lf 新窗口打开
+cmd shift f 搜索
+ctrl 6方法跳转
+
+cmd a 全选
+ctrl i 格式化
+
+cmd shift o 方法搜索
+cmd shift 0 文档
+
+cmd R 运行
+cmd shift k 清理clean
+cmd b 构建build
+
+opt lf 快速帮助
+cmd shift j 定位到当前文件

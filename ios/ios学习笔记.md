@@ -1,7 +1,7 @@
 
-#框架选择
+#妗嗘灦閫夋嫨
 
-##图形动画
+##鍥惧舰鍔ㄧ敾
 1. UIKit->CoreAnimation->CALayer
-##网络请求
+##缃戠粶璇锋眰
 1. Alamofire
