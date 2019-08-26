@@ -19,6 +19,19 @@ https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=156620771244
 中文SRT
 拼音SRT
 
+
+--日常用语(80%)
+
+--my_assistants
+  +uu
+   +data.db
+   +videos
+    a.mp4
+    a.srt
+   +voices
+    a1_001.mp3
+    a2_001.mp3
+
 #### 口头禅
 #### 表述方式模拟
 
