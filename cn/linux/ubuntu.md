@@ -1,0 +1,4 @@
+## 常见问题
+1. as install-snap change in progress
+> snap changes \
+> sudo snap abort 5
