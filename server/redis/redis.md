@@ -11,7 +11,7 @@
 //LPUSH listkey value1 value2...
 ### HSET HGET
 //Hash
-//HSET bean feild1 feild2 value1 value2
+//HSET bean feild1 value1 feild2  value2
 //HGET bean feild1 feild2
 ## Send Flush Recevie
 //Send：发送命令至缓冲区
