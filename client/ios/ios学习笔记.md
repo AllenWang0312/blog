@@ -1,7 +1,10 @@
 
-#框架选择
+# 常用命令
+xcrun swift -v
 
-##图形动画
+# 框架选择
+
+## 图形动画
 1. UIKit->CoreAnimation->CALayer
-##网络请求
+## 网络请求
 1. Alamofire

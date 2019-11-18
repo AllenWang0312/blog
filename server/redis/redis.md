@@ -1,4 +1,7 @@
 
+## 
+ [服务器安装教程](https://blog.csdn.net/qq_39135287/article/details/83474865)
+
 ##Do()
 
 ### SET GET expire
