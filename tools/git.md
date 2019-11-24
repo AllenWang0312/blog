@@ -1,3 +1,8 @@
+
+git rm -r --cached .svn
+git commit -m 'delete remote somefile'
+git push
+
 1.1 git branch
 
 　　　　　　不带参数：列出本地已经存在的分支，并且在当前分支的前面用"*"标记
