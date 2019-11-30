@@ -1,0 +1,7 @@
+the remote end hung up unexpectedly
+
+¹¤³Ì>.git>config> append
+
+
+[http]
+postBuffer = 524288000

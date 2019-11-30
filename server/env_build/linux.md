@@ -1,4 +1,38 @@
+
+122.51.205.29
+5IViitVRy7xq54P
+
 # shell
+vmstat：用以检测CPU和内存情况 
+    -f //显示从系统启动至今的fork数量
+    -s //查看内存使用的详细信息
+    -d //查看磁盘的读/写
+iostat：用于检测磁盘状态 
+netstat：用于检测带宽状态
+    -an | grep 2158//查看进程路径
+    -lntp
+    -apn 
+### 白名单
+polkitd
+nobody
+
+
+                             
+
+
+
+
+SYN_SENT 请求连接
+TIME_WAIT
+FIN_WAIT1 主动要求关闭tcp连接
+## swap
+//if 表示infile，of表示outfile，bs=1024代表增加的模块大小，count=16384000代表16384000个模块，也就是16G空间
+dd if=/dev/zero of=/var/swap bs=1024 count=16384000
+mkswap /var/swap
+mkswap -f /var/swap
+swapon /var/swap
+free -m
+cat /proc/swaps
 
 ## yum
 
@@ -17,6 +51,8 @@
 ## nohup
   nohup /root/test.php &   //不挂断的运行程序  同时把程序运行的输出信息放到当前目录的nohup.out 文件中去
 
+## 
+ [服务器安装教程](https://blog.csdn.net/qq_39135287/article/details/83474865)
 ## 常用命令 
 //启动redis 服务器
 /usr/local/redis-5.0.6/bin/redis-server /usr/local/redis-5.0.6/etc/redis.conf
@@ -46,8 +82,7 @@
         -C, --cache                display routing cache instead of FIB
         -T, --notrim               stop trimming long addresses
         -Z, --context              display SELinux security context for sockets 
--lntp
--apn 
+
 ### |grep 8080(http服务器) 6379(redis服务器) 3306(mysql)
 ### kill -9 23608
 
