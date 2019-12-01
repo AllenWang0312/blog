@@ -1,8 +1,25 @@
 
 122.51.205.29
 5IViitVRy7xq54P
+Wq!_mYVissM-A5a
 
 # shell
+关机：
+　　shutdown -h now  #立刻关机重启，工作中常用
+　　shutdown -h +1    #1分钟后关机
+　　init 0
+　　halt                        #立即停止系统，需要人工关闭电源
+　　halt -p                    #
+　　poweroff　　　　  #立即停止系统，并且关闭电源
+重启：
+　　reboot　　　　　　#工作中常用
+　　shutdown -r now      #工作中常用
+　　shutdown -r +1　　 #一分钟后重启
+　　init 6
+注销：
+　　logout
+　　exit　　　　　　#工作中常用
+　　ctrl+d　　　　　#工作中常用
 vmstat：用以检测CPU和内存情况 
     -f //显示从系统启动至今的fork数量
     -s //查看内存使用的详细信息
