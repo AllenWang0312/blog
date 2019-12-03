@@ -3,6 +3,8 @@
 5IViitVRy7xq54P
 Wq!_mYVissM-A5a
 
+nohup ./main > nohup.out 2>&1 &  
+nohup ./main_file > nohup_file.out 2>&1 &
 # shell
 关机：
 　　shutdown -h now  #立刻关机重启，工作中常用
