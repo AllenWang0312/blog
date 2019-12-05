@@ -21,7 +21,9 @@
 ## 编译可执行文件
 
     ```shell
-        $set GOOS=linux
-        $set GOARCH=and64
+        $set GOOS=linux      //windows
+        $set GOARCH=386      //and64 
         $go build
+        
+        %go run main.go arg1 arg2
     ```
