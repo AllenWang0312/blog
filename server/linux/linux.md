@@ -3,6 +3,8 @@
 5IViitVRy7xq54P
 Wq!_mYVissM-A5a
 
+cd /home/wpc/products/netimg
+### nohup ./main
 nohup ./main > nohup.out 2>&1 &  
 nohup ./main_file > nohup_file.out 2>&1 &
 # shell
@@ -105,5 +107,4 @@ cat /proc/swaps
 ### |grep 8080(http服务器) 6379(redis服务器) 3306(mysql)
 ### kill -9 23608
 
-cd /home/wpc/products/netimg
-### nohup ./main
+
