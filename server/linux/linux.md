@@ -1,7 +1,4 @@
 
-122.51.205.29
-5IViitVRy7xq54P
-Wq!_mYVissM-A5a
 
 cd /home/wpc/products/netimg
 ### nohup ./main
