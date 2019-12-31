@@ -1,9 +1,11 @@
 
-## ³£¼ûÎÊÌâ
+
+## å¸¸è§é—®é¢˜
 1. the remote end hung up unexpectedly
 
-    ¹¤³Ì>.git>config> append
+    å·¥ç¨‹>.git>config> append
     [http]
     postBuffer = 524288000
-    »òÕß
+    æˆ–è€…
     git config --global http.postBuffer 524288000 //1048576000
+

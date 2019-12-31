@@ -1,63 +1,63 @@
-### Ñ§Ï°±Ê¼Ç
+### å­¦ä¹ ç¬”è®°
 
-#### ÔËÎ¬
-WSUS WIndows Server Update Services ×Ô¶¯¸üÐÂ²¿Êð
-WDS Windows Deployment Service Windows²Ù×÷ÏµÍ³Ô¶³ÌÅúÁ¿²¿Êð°²×°
-Ansible ÅúÁ¿¹ÜÀíLinux·þÎñÆ÷
-PowerShell ÅúÁ¿¹ÜÀíWindows·þÎñÆ÷
-Certbot ¸ü»»Êý×ÖÖ¤Êé
+#### è¿ç»´
+WSUS WIndows Server Update Services è‡ªåŠ¨æ›´æ–°éƒ¨ç½²
+WDS Windows Deployment Service Windowsæ“ä½œç³»ç»Ÿè¿œç¨‹æ‰¹é‡éƒ¨ç½²å®‰è£…
+Ansible æ‰¹é‡ç®¡ç†LinuxæœåŠ¡å™¨
+PowerShell æ‰¹é‡ç®¡ç†WindowsæœåŠ¡å™¨
+Certbot æ›´æ¢æ•°å­—è¯ä¹¦
 
-##### ÈÝÆ÷
+##### å®¹å™¨
 Kubernetes
 Service Fabric
 
-·þÎñ·¢ÏÖ ·þÎñ×¢²á
+æœåŠ¡å‘çŽ° æœåŠ¡æ³¨å†Œ
 
-### °²ÎÈ³¤ÂúÓÅ
-°²È« ÎÈ¶¨ ³¤¾Ã Âú¸ººÉ ÓÅÓëÀ©Õ¹
-·ÖÇøÈÝÈÌÐÔ ¿ÉÓÃÐÔ
+### å®‰ç¨³é•¿æ»¡ä¼˜
+å®‰å…¨ ç¨³å®š é•¿ä¹… æ»¡è´Ÿè· ä¼˜ä¸Žæ‰©å±•
+åˆ†åŒºå®¹å¿æ€§ å¯ç”¨æ€§
 
-### Ê×Ï¯¼¼Êõ¹Ù
-CTO Áìµ¼ 
-¼Ü¹¹Ê¦? ¹ÜÀí ¹µÍ¨ ÎÄµµÄÜÁ¦
+### é¦–å¸­æŠ€æœ¯å®˜
+CTO é¢†å¯¼ 
+æž¶æž„å¸ˆ? ç®¡ç† æ²Ÿé€š æ–‡æ¡£èƒ½åŠ›
 
-ËÉÏÂ VB
+æ¾ä¸‹ VB
 
-smtp//µç×ÓÓÊ¼þ´«ÊäµÄÐ­Òé
+smtp//ç”µå­é‚®ä»¶ä¼ è¾“çš„åè®®
 
-paas(Platform as a Service Æ½Ì¨¼´·þÎñ) 
-saas(Software as a Service ÍøÂç½øÐÐ³ÌÐòÌá¹©µÄ·þÎñ)
+paas(Platform as a Service å¹³å°å³æœåŠ¡) 
+saas(Software as a Service ç½‘ç»œè¿›è¡Œç¨‹åºæä¾›çš„æœåŠ¡)
 
 DevOps
-Ãô½ÝÄ£ÐÍ ÆÙ²¼Ä£ÐÍ
-CI Continuous Integration³ÖÐø¼¯³É
+æ•æ·æ¨¡åž‹ ç€‘å¸ƒæ¨¡åž‹
+CI Continuous IntegrationæŒç»­é›†æˆ
 Travis CI Circle CI Azure DevOps
 
-CD Continuous Deployment ³ÖÐø½»¸¶
+CD Continuous Deployment æŒç»­äº¤ä»˜
 
-* ×Ô¶¯»¯¹¹½¨Á÷Ë®Ïß
+* è‡ªåŠ¨åŒ–æž„å»ºæµæ°´çº¿
 
-* ÒÀÀµ×¢Èë 
-* ÖÐ¼ä¼þ 
+* ä¾èµ–æ³¨å…¥ 
+* ä¸­é—´ä»¶ 
 * mvc 
 
-* Ë«·´Ïò´úÀí (Ö÷´Ó)
-* ¸ºÔØ¾ùºâ Ö»ÓÐÎÞ×´Ì¬µÄ·þÎñ¿ÉÒÔ±»¸ºÔØ¾ùºâ(ºáÏòÀ©Õ¹)
+* åŒåå‘ä»£ç† (ä¸»ä»Ž)
+* è´Ÿè½½å‡è¡¡ åªæœ‰æ— çŠ¶æ€çš„æœåŠ¡å¯ä»¥è¢«è´Ÿè½½å‡è¡¡(æ¨ªå‘æ‰©å±•)
  
-* ÐÅÏ¢°²È«Ö÷Òª½â¾ö 
-  ÐÅÏ¢´«Êä ±»Î±Ôì ±»ÐÞ¸Ä ±»¼àÌý
-  ¶Ô³Æ¼ÓÃÜ DES(x) AES ÐÅÏ¢¿ÉÒÔ±»·´ÍÆ
-  ·Ç¶Ô³Æ RSA
-ºáÏòÀ©Õ¹ ¸´ÖÆ·þÎñÆ÷ ×ÝÏòÀ©Õ¹ Ìá¸ßµ¥Ì¨·þÎñÆ÷ÐÔÄÜ
+* ä¿¡æ¯å®‰å…¨ä¸»è¦è§£å†³ 
+  ä¿¡æ¯ä¼ è¾“ è¢«ä¼ªé€  è¢«ä¿®æ”¹ è¢«ç›‘å¬
+  å¯¹ç§°åŠ å¯† DES(x) AES ä¿¡æ¯å¯ä»¥è¢«åæŽ¨
+  éžå¯¹ç§° RSA
+æ¨ªå‘æ‰©å±• å¤åˆ¶æœåŠ¡å™¨ çºµå‘æ‰©å±• æé«˜å•å°æœåŠ¡å™¨æ€§èƒ½
 
-https¼ÓÃÜºËÐÄ?
-ÐÅÈÎÁ´
-ÓÃ»§ ä¯ÀÀÆ÷¹«Ë¾ CA»ú¹¹ ÓòÃû°²È« ¿ª·¢ÕßÈÏÖ¤ÓòÃû 
+httpsåŠ å¯†æ ¸å¿ƒ?
+ä¿¡ä»»é“¾
+ç”¨æˆ· æµè§ˆå™¨å…¬å¸ CAæœºæž„ åŸŸåå®‰å…¨ å¼€å‘è€…è®¤è¯åŸŸå 
 
-#### ¼¼Êõµã
-* ÎÄ¼þ·þÎñÆ÷ ä¯ÀÀÆ÷»º´æETagÊÇÊ²Ã´ 
+#### æŠ€æœ¯ç‚¹
+* æ–‡ä»¶æœåŠ¡å™¨ æµè§ˆå™¨ç¼“å­˜ETagæ˜¯ä»€ä¹ˆ 
   Hash 
-  ÎÄ¼þ¹ý´ó ÐÞ¸ÄÊ±¼ä ´óÐ¡ /Òì»òÔËËã
+  æ–‡ä»¶è¿‡å¤§ ä¿®æ”¹æ—¶é—´ å¤§å° /å¼‚æˆ–è¿ç®—
   
-### ¿Ó 
-[Î¢Èí]silverlight
+### å‘ 
+[å¾®è½¯]silverlight
