@@ -8,8 +8,22 @@ GPL 使用者必须开放fork的项目
 所有权保留 开放源代码 没有采用开源协议 抄走宣称拥有都是违法的
 CC0 不保留任何权利
 
-mac android ios flutter 
+mac  
 
-ubuntu python tensorflow-gpu            github
+node.js 
+taro 
 
-windows node.js taro golang 运维 
+ios flutter 
+docker
+golang 
+运维 
+
+ubuntu 
+
+android 
+android embed 
+python tensorflow-gpu            github
+
+windows 
+
+

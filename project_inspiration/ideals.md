@@ -8,14 +8,13 @@ ar vr
 
 1. 机器学习
    * openpose faceswap
-   * 类似google相册
-   * 根据人脸识别分类
+   * 类似google相册  根据人脸识别分类
    * 文件整理任务
    
 2. 语音助手 
 3. 智能家居 品质生活
-5. vr直播 设备成本高 小众
-6. ar导航 图像识别 gps精度
+4. vr直播 设备成本高 小众
+5. ar导航 图像识别 gps精度
 
 ##工作助手
 ##Application:
