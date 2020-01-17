@@ -1,4 +1,5 @@
-
+ip:122.51.205.29
+pass:Wq!_mYVissM-A5a
 
 cd /home/wpc/products/netimg
 ### nohup ./main
