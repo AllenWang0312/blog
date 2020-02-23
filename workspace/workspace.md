@@ -1,16 +1,9 @@
 
-windows
-golang
-unreal engine
-game
 
-ubuntu
-tensorflow
-python
+t:1498499151/h55hy3
 
-imac
-
-androidstudio
-xcode
-taro
-flutter
+环境 | android | ios | flutter | taro | python | tf | tf-gpu | go |
+----|----|----|----|----|----|----|----|----
+win|√| |√| |√|√| |√| 
+ubuntu| | | | |√|√|√|
+mac|√|√|√|√
