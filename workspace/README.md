@@ -1,3 +1,7 @@
+
+[远程开机](https://post.smzdm.com/p/664774/) 
+
+
 开发环境
 
 * S1 
@@ -15,7 +19,7 @@
 	+ 1T fat32
 
 * H1 
-	+ 512g 移动硬盘 叉车
+	+ 512g fat32 移动硬盘 叉车
 * H2 
 	+ 512g 笔记本硬盘
 	
@@ -32,7 +36,9 @@ FAT32（Windows）：支持最大分区128GB，最大文件4GB
 HPFS（OS/2）：支持最大分区2TB，最大文件2GB
 EXT2和EXT3（Linux）：支持最大分区4TB，最大文件2GB
 
-[mac 操作 ntfs](https://www.jianshu.com/p/a770c66bdddf) 
+[osxfuse mac 操作 ntfs](https://www.jianshu.com/p/a770c66bdddf) 
 https://osxfuse.github.io/
-[远程开机](https://post.smzdm.com/p/664774/) 
+
+fat32 最大4G
+[python ffmpeg 切割视频](https://www.cnblogs.com/Dicky-Zhang/p/9867391.html)
 
