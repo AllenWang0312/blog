@@ -1,3 +1,4 @@
+
 ip:122.51.205.29
 pass:Wq!_mYVissM-A5a
 
@@ -11,7 +12,7 @@ nohup ./main_file > nohup_file.out 2>&1 &
 　　shutdown -h +1    #1分钟后关机
 　　init 0
 　　halt                        #立即停止系统，需要人工关闭电源
-　　halt -p                    #
+　　halt -p                     #
 　　poweroff　　　　  #立即停止系统，并且关闭电源
 重启：
 　　reboot　　　　　　#工作中常用
