@@ -7,3 +7,6 @@ t:1498499151/h55hy3
 win|√| |√| |√|√| |√| 
 ubuntu| | | | |√|√|√|
 mac|√|√|√|√
+
+
+apt-get install -i
