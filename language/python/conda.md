@@ -15,3 +15,8 @@ conda uninstall xxx   #卸载xxx文件包
 
 conda remove -n xxxx --all //创建xxxx虚拟环境
 
+
+### conda install ��
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+conda config --set show_channel_urls yes
