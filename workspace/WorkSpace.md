@@ -1,5 +1,4 @@
 
-
 t:1498499151/h55hy3
 
 环境 | android | ios | flutter | taro | python | tf | tf-gpu | go |
@@ -8,5 +7,8 @@ win|√| |√| |√|√| |√|
 ubuntu| | | | |√|√|√|
 mac|√|√|√|√
 
+1461071427
+1637149386
+1365788232
 
-apt-get install -i
+
