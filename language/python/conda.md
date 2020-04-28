@@ -6,9 +6,6 @@ conda deactivate                  //关闭环境
 conda env list
 
 
-conda install --channel https://conda.anaconda.org/anaconda tensorflow=1.8.0
-
-
 conda list         #查看已经安装的文件包
 conda update xxx   #更新xxx文件包
 conda uninstall xxx   #卸载xxx文件包
