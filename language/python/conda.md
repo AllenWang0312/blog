@@ -1,3 +1,5 @@
+pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple somepackage
+
 conda update conda
 
 conda create -n xxxx python=3.5
