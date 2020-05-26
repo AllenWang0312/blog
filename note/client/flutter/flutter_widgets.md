@@ -2,22 +2,22 @@
 ## SafeArea
 
 ## Expanded 
-    Ê¹colum »ò row µÄÄ³¸ö×ÓÏîÌî³äÊ£Óà¿Õ¼ä
-    ÀàËÆ android:weight
+    ä½¿colum æˆ– row çš„æŸä¸ªå­é¡¹å¡«å……å‰©ä½™ç©ºé—´
+    ç±»ä¼¼ android:weight
 
 ## Wrap
 
 ## AnimatedContainer 
-    ¶¯»­ÈİÆ÷
-    Í¨¹ısetState() ¸Ä±äÄ³¸öÊôĞÔÖµ »á×Ô¶¯ÎªÆäÌí¼Ó¶¯»­
+    åŠ¨ç”»å®¹å™¨
+    é€šè¿‡setState() æ”¹å˜æŸä¸ªå±æ€§å€¼ ä¼šè‡ªåŠ¨ä¸ºå…¶æ·»åŠ åŠ¨ç”»
 
-## Opacity (²»Í¸Ã÷¶È)  Visibility=GONE
+## Opacity (ä¸é€æ˜åº¦)  Visibility=GONE
     Opacity(
         opacity:0.0,
         child:MyWidget(Colors.blue),
     )
 ## FutureBuilder 
-    Òì²½Ö´ĞĞÈÎÎñ ¸ù¾İ´¦Àí½á¹ûÏÔÊ¾²¼¾Ö   
+    å¼‚æ­¥æ‰§è¡Œä»»åŠ¡ æ ¹æ®å¤„ç†ç»“æœæ˜¾ç¤ºå¸ƒå±€   
 
     FutureBuilder(
         future:http.get('http://awesome.data'),
@@ -34,7 +34,7 @@
     )
 ## FadeTransition
     
-    ¼û flutter_lms/lib/common/my_fade_in.dart
+    è§ flutter_lms/lib/common/my_fade_in.dart
 ## FloatingActionButton 
     Scaffold(
         floatingActionButton:...
@@ -68,11 +68,11 @@
     ]
     )
 ##SliverAppBar (AppBarLayout AppBar Coordinglayout)
-    ÅäºÏCustomScrollViewÊ¹ÓÃ
+    é…åˆCustomScrollViewä½¿ç”¨
     SliverAppBar(
-        //floating:true ÏÂÀ­³öÏÖÉÏÀ­Òş²Ø
-        expandedHeight:200.0//Õ¹¿ª¸ß¶È
-        flexibleSpace:FlexibleSpaceBar(//Õ¹¿ª²¼¾Ö
+        //floating:true ä¸‹æ‹‰å‡ºç°ä¸Šæ‹‰éšè—
+        expandedHeight:200.0//å±•å¼€é«˜åº¦
+        flexibleSpace:FlexibleSpaceBar(//å±•å¼€å¸ƒå±€
             background:_expandedImage,
         )
     )
@@ -84,7 +84,7 @@
     widget,
     anotherWidget,
     yetAnotherWidget,])
-    //delegate:SliverChildBuilderDelegate(//ÑÓ³Ù¼ÓÔØ
+    //delegate:SliverChildBuilderDelegate(//å»¶è¿ŸåŠ è½½
     //    (BuildContext context,int index){
     //    return aWidget;
     //    })
@@ -92,10 +92,10 @@
     
     SliverGrid.count(
     children:scrollItems,
-    crowwAxisCount:4,//4ÁĞ
+    crowwAxisCount:4,//4åˆ—
     )
     SliverGrid.extent(
-    crossAxisExtent:90.0//item×î´ó¿í¶È
+    crossAxisExtent:90.0//itemæœ€å¤§å®½åº¦
     )
 ## FadeInImage
     FadeInImage.assetNetword(//memoryNetword
@@ -105,7 +105,7 @@
         placeholder:'assets/waiting.png',
         image:'https://...'
     )
-## StreamBuilder firebase ´«¸ĞÆ÷ÊÂ¼ş ÍøÂçÁ¬½Ó×´¿ö
+## StreamBuilder firebase ä¼ æ„Ÿå™¨äº‹ä»¶ ç½‘ç»œè¿æ¥çŠ¶å†µ
     StreamBuilder(
     strean:_myStream,
     builder:(context,snapshot){
@@ -119,6 +119,6 @@
     }
     )
 ## InheritedModel
-    µ±ÄãÏëÊ¹ÓÃÉÏ²ãwiget µÄÊı¾İÊ±  Ê¹ÓÃÕâ¸öÍæÒâ
+    å½“ä½ æƒ³ä½¿ç”¨ä¸Šå±‚wiget çš„æ•°æ®æ—¶  ä½¿ç”¨è¿™ä¸ªç©æ„
 
 
