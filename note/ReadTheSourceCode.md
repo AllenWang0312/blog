@@ -1,5 +1,0 @@
-# Glide
-
-# Retrofit2
-
-#
