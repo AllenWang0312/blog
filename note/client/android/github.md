@@ -1,9 +1,9 @@
 
 
-## 功能模块
+## 鍔熻兘妯″潡
 [Emoji](https://github.com/vanniktech/Emoji)
-### 图片裁剪
+### 鍥剧墖瑁佸壀
 [ImageCropper](https://github.com/ArthurHub/Android-Image-Cropper)
-## 加点特效(UI)
+## 鍔犵偣鐗规晥(UI)
 
-[子视图可以拖动排序的LinearLayout](https://github.com/justasm/DragLinearLayout)
+[瀛愯鍥惧彲浠ユ嫋鍔ㄦ帓搴忕殑LinearLayout](https://github.com/justasm/DragLinearLayout)

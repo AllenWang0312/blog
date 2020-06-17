@@ -17,3 +17,15 @@
 * 静态drawable drawable 会持有view的引用 view会持有上下文
 * 静态集合中对象没清理造成的内存泄漏
 * 单例模式  持有activity 导致activity不能被回收  换成applicationcontext
+
+
+
+java线程池
+
+内存回收机制 有哪些
+
+kotlin 的接口和java的有什么区别
+
+rxjava
+
+如果一个页面有多个请求 如何做到同时获得结果

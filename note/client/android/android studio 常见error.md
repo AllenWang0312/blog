@@ -1,19 +1,26 @@
 Error:SSL peer shut down incorrectly
 
-gradle °æ±¾ÎÊÌâ
+gradle ç‰ˆæœ¬é—®é¢˜
 
- ½â¾ö Android N 7.0 ÉÏ ±¨´í£ºandroid.os.FileUriExposedException
+ è§£å†³ Android N 7.0 ä¸Š æŠ¥é”™ï¼šandroid.os.FileUriExposedException
 
 http://blog.csdn.net/yy1300326388/article/details/52787853
 
 ### Error:SSL peer shut down incorrectly
-* Ô­Òò: gradle °æ±¾ÎÊÌâ
-* ½â¾ö: ¸ÄÎª±¾µØgradle 
+* åŸå› : gradle ç‰ˆæœ¬é—®é¢˜
+* è§£å†³: æ”¹ä¸ºæœ¬åœ°gradle 
 
-###½â¾ö Android N 7.0 ÉÏ ±¨´í£ºandroid.os.FileUriExposedException
-* Ô­Òò: 7.0ÎÄ¼ş·ÃÎÊÈ¨ÏŞ
-* ½â¾ö: http://blog.csdn.net/yy1300326388/article/details/52787853
+###è§£å†³ Android N 7.0 ä¸Š æŠ¥é”™ï¼šandroid.os.FileUriExposedException
+* åŸå› : 7.0æ–‡ä»¶è®¿é—®æƒé™
+* è§£å†³: http://blog.csdn.net/yy1300326388/article/details/52787853
 
 ### unable to find valid certfication path to requested target
-* Ô­Òò: ÕÒ²»µ½²¿·Ö¿â
-* ½â¾ö: ¸´ÖÆÒÑÓĞÏîÄ¿project build.gradle repositories
+* åŸå› : æ‰¾ä¸åˆ°éƒ¨åˆ†åº“
+* è§£å†³: å¤åˆ¶å·²æœ‰é¡¹ç›®project build.gradle repositories
+
+### This project uses AndroidX dependencies, but the 'android.useAndroidX' property is not enabled. Set this property to true in the gradle.properties file and retry.
+gradle.properties
+æ·»åŠ  android.useAndroidX=true
+NonExistentClass???????Annotation
+    @error.NonExistentClass()
+    
