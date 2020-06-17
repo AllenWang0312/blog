@@ -29,4 +29,10 @@ ioT
 [创客智造 物联网](https://www.ncnynl.com/category/rpi-iot/)
 [](https://me.csdn.net/qq_44752226)
 
+siri 遥控树莓派
+脚本 sudo uhubctl -e -a 1 -l 1-1 打开夜灯
+url http://  树莓派开眼 
+脚本 python Desktop/readbot.py
+[](https://www.bilibili.com/video/BV1x5411s7gE?t=185)
+
 
