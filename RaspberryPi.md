@@ -21,6 +21,11 @@ DLNA samba aria2 yaaw
 [成功实现NAS家庭服务器（流媒体播放、文件共享及下载机）](https://www.cnblogs.com/xiaowuyi/p/4051238.html)
 [树莓派做下载机，Aria2！](https://shumeipai.nxez.com/2014/07/01/raspberry-pi-do-download-machine-aria2.html)
 
+/etc/init.d/samba restart 关闭文件共享
+/etc/init.d/minidlna stop 关闭多媒体共享
+sudo aria2c --conf-path=/etc/aria2/aria2.conf －D 关闭文件下载
+
+
 OSMC
 [创客智造 OSMC](https://www.ncnynl.com/archives/201607/230.html)
 [使用树莓派搭建OSMC家庭影院](https://www.jianshu.com/p/bd99cf52ee0d)
