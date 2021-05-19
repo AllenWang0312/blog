@@ -1,5 +1,0 @@
-
-NDK
-    KHR
-    SLES
-    OMXAL
