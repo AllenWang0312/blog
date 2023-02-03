@@ -1,7 +1,0 @@
-
-
-Q:aapt2 
-A:app > gradle.properties >
-
-append  android.enableAapt2 = false
-
